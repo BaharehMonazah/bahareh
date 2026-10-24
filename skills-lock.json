@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "career-ops": {
+      "source": "santifer/career-ops",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/career-ops/SKILL.md",
+      "computedHash": "e0db55caeb8af284f1f76b0867599cb43eb95bcd83226beb3d635240cf07eae6"
+    }
+  }
+}
